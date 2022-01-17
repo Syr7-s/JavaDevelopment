@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mail_OTP_SpringBoot/Mail_OTP_SpringBoot.iml" filepath="$PROJECT_DIR$/Mail_OTP_SpringBoot/Mail_OTP_SpringBoot.iml" />
+    </modules>
+  </component>
+</project>
