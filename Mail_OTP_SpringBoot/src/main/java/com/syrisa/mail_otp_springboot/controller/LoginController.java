@@ -4,7 +4,6 @@ package com.syrisa.mail_otp_springboot.controller;
 import com.syrisa.mail_otp_springboot.entity.impl.Login;
 import com.syrisa.mail_otp_springboot.entity.impl.TempEmail;
 import com.syrisa.mail_otp_springboot.service.LoginService;
-import com.syrisa.mail_otp_springboot.service.impl.LoginServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
