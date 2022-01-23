@@ -4,4 +4,18 @@ services:
     image: mongo
     ports:
       - '27017:27017'
-    #command: --serviceExecutor adaptive
+    volumes:
+      - db-data-no-sql:/var/lib/mongodb
+  spring-boot-webflux:
+    image: spring-web-flux:v1
+    depends_on:
+      - mongo
+    ports:
+      - '8080:8080'
+    networks:
+      - spring-web-flux-net
+volumes:
+  db-data-no-sql:
+networks:
+  spring-web-flux-net:
+    driver: overlay
