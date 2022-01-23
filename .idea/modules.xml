@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mail_OTP_SpringBoot/Mail_OTP_SpringBoot.iml" filepath="$PROJECT_DIR$/Mail_OTP_SpringBoot/Mail_OTP_SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web-flux/spring-boot-web-flux.iml" filepath="$PROJECT_DIR$/spring-web-flux/spring-boot-web-flux.iml" />
     </modules>
   </component>
 </project>

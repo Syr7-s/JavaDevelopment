@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Mail_OTP_SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-flux/pom.xml" />
       </list>
     </option>
   </component>
