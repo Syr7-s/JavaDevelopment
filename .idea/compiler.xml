@@ -9,10 +9,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Mail_OTP_SpringBoot" />
         <module name="spring-boot-web-flux" />
+        <module name="RoundRobin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Mail_OTP_SpringBoot" target="1.8" />
+      <module name="RoundRobin" target="1.7" />
       <module name="spring-boot-web-flux" target="1.8" />
     </bytecodeTargetLevel>
   </component>
